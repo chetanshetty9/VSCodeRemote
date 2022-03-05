@@ -1,3 +1,3 @@
 import numpy as np
-res=np.sqrt(25)
-print(res)
+res1=np.sqrt(25)
+print(res1)
